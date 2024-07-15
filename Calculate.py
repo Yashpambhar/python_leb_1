@@ -14,4 +14,4 @@ print(f"Division: {division}")
 
 output:-
 
-![Screenshot 2024-07-15 175941](https://github.com/user-attachments/assets/83e200ea-e33e-4868-8511-b6940670fe08)
+![Screenshot 2024-07-15 175919](https://github.com/user-attachments/assets/59296489-85fe-495e-b401-48c5f4af1c99)
