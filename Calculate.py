@@ -10,3 +10,8 @@ print(f"Addition: {addition}")
 print(f"Subtraction: {subtraction}")
 print(f"Multiplication: {multiplication}")
 print(f"Division: {division}")
+
+
+output:-
+
+![Screenshot 2024-07-15 175941](https://github.com/user-attachments/assets/83e200ea-e33e-4868-8511-b6940670fe08)
