@@ -21,3 +21,6 @@ print("\nMarksheet")
 print("Total Marks:", total_marks)
 print("Average Marks:", average_marks)
 print("Grade:", grade)
+
+output :-
+![Screenshot (1)](https://github.com/user-attachments/assets/88cd6f59-c97a-48d1-b712-a067d9703691)
